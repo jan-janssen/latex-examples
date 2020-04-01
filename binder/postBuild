@@ -2,3 +2,5 @@
 jupyter labextension install @jupyterlab/latex
 
 bash ./texlive_install.sh
+
+export PATH=$PATH:/tmp/texlive/bin/x86_64-linux/
