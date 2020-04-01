@@ -1,1 +1,1 @@
-source ./texlive_install.sh
+bash ./texlive_install.sh
