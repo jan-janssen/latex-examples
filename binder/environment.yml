@@ -3,3 +3,4 @@ channels:
 dependencies:
   - jupyterlab_latex
   - pygments
+  - texlive-core
