@@ -24,6 +24,7 @@ fi
 
 # Just including texlua so the cache check above works
 # Needed for any use of texlua even if not testing LuaTeX
+tlmgr init-usertree
 tlmgr install luatex
 
 # Other contrib packages: done as a block to avoid multiple calls to tlmgr
