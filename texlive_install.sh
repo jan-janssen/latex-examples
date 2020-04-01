@@ -32,3 +32,5 @@ tlmgr install luatex
 tlmgr install                    \
   collection-latexextra          \
   collection-fontsrecommended    \
+  biblatex                       \
+  biber                          \
