@@ -1,2 +1,4 @@
 #!/bin/bash
 jupyter labextension install @jupyterlab/latex
+
+bash ./texlive_install.sh
